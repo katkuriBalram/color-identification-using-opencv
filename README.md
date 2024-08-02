@@ -14,11 +14,11 @@ This project is a color identification tool that uses computer vision techniques
    - Display the image and allow users to click on any point to identify its color.
 
 ## How to Execute?
-
+**
 -install the visual studio code according to your system through https://code.visualstudio.com/download
 -install the python latest version from https://www.python.org/downloads/
 -Install the prerequisites/software’s required to execute the code.
--edit the path at the 23rd line in main.py 
+-edit the path at the 23rd line in main.py **
 
 ## Issues Faced
 Coordinate Out of Bounds: Handling cases where the selected coordinates are outside the image boundaries.
