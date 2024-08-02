@@ -15,18 +15,18 @@ This project is a color identification tool that uses computer vision techniques
 
 ## How to Execute?
 
-   -install the visual studio code according to your system through https://code.visualstudio.com/download
-   .install the python latest version from https://www.python.org/downloads/
-   .Install the prerequisites/software’s required to execute the code
-   .edit the path at the 23rd line in main.py 
+   -install the visual studio code according to your system through https://code.visualstudio.com/download<br>
+   .install the python latest version from https://www.python.org/downloads/<br>
+   .Install the prerequisites/software’s required to execute the code<br>
+   .edit the path at the 23rd line in main.py <br>
 
 ## Issues Faced
-Coordinate Out of Bounds: Handling cases where the selected coordinates are outside the image boundaries.
-GUI Responsiveness: Ensuring the GUI remains responsive and updates correctly when the user interacts with it.
+Coordinate Out of Bounds: Handling cases where the selected coordinates are outside the image boundaries.<br>
+GUI Responsiveness: Ensuring the GUI remains responsive and updates correctly when the user interacts with it.<br>
 
 ## Note
-Make sure to update the path to colors.csv in the script if necessary.
-Ensure that all required packages are installed and the virtual environment is activated before running the script.
+Make sure to update the path to colors.csv in the script if necessary.<br>
+Ensure that all required packages are installed and the virtual environment is activated before running the script.<br>
 
 ## connect me:
 
